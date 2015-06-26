@@ -1,3 +1,7 @@
 npm i
+
+npm i bower -g
 bower i
-node server.js
+
+npm i grunt-cli -g
+grunt
